@@ -8,7 +8,7 @@ dist/
 build/
 *.h5
 *.tflite
-models/
-*.npy
 *.ckpt
 .vscode/
+models/*.h5
+models/*.tflite
